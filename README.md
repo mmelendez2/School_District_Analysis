@@ -56,8 +56,15 @@ Challenge - Thomas High School - Average Score
 
     - Scores by school spending
     
- The scores by school spending had little change:
+ The scores by school spending saw no change after replacing Thomas High School's 9th grade scores:
  ![image](https://user-images.githubusercontent.com/89496798/140700770-a07780c3-3dcb-44bd-9f12-dbde20f9d3ee.png)
 
     - Scores by school size
+    
+  The scores by school size also did not see a change after Thomas High School's 9th grade scores were replaced:
+  ![image](https://user-images.githubusercontent.com/89496798/140701338-5d48fbce-0590-479d-944d-fd5c9d14f15d.png)
+
     - Scores by school type
+
+The scores by school type also did not see a change:
+![image](https://user-images.githubusercontent.com/89496798/140701569-c4ae86b6-b99a-41a5-80cb-e3df770058dd.png)
