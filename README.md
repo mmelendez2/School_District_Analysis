@@ -33,7 +33,7 @@ Looking at the snippets above, it's apparent that Thomas High School's performan
 
 Module - Thomas High School
 ![image](https://user-images.githubusercontent.com/89496798/140697253-22ae6219-2433-468d-901e-38877cbabf7e.png)
-![image](https://user-images.githubusercontent.com/89496798/140696936-dae1baad-31fc-4b04-a624-59f599449b59.png)
+![image](https://user-images.githubusercontent.com/89496798/140697575-c81179a5-97ee-4e12-a5c6-b11cdcad6f1d.png)
 
 Challenge - Thomas High School
 ![image](https://user-images.githubusercontent.com/89496798/140697263-a67563a5-1d7d-42bd-9273-a8e670f2ca02.png)
