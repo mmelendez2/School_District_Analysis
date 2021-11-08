@@ -11,14 +11,25 @@ Our objective is to replace the math and reading scores for Thomas High school w
 
 The district summary statistics are slightly lower than when we initially calculated the values for the Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing.
 
-Challenge Statistics:
-![image](https://user-images.githubusercontent.com/89496798/140694986-d595df82-7297-4970-828e-ebde3447f304.png)
-
 Module Statistics:
 ![image](https://user-images.githubusercontent.com/89496798/140695146-b48fc7a0-c328-48d7-8b3d-72d303e076c2.png)
 
+Challenge Statistics:
+![image](https://user-images.githubusercontent.com/89496798/140694986-d595df82-7297-4970-828e-ebde3447f304.png)
+
 - How is the school summary affected?
+
+The school summary was significantly affected especially in regards to Thomas High School's % Overall Passing. The % Overall Pricing for Thomas High School decreased from 90.58 percent to 65.08 percent:
+
+Module Statistics:
+![image](https://user-images.githubusercontent.com/89496798/140695672-22123753-6dc5-4cff-a614-2932d2cdeb9f.png)
+
+Challenge Statistics:
+![image](https://user-images.githubusercontent.com/89496798/140695739-10e986db-639e-4359-9d11-f04e6634ac3f.png)
+
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
 - How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
 - Scores by school spending
