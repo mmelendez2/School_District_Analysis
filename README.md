@@ -43,12 +43,14 @@ Challenge - Thomas High School
 - How does replacing the ninth-grade scores affect the following:
 
     - Math and reading scores by grade
-    The math and reading score averages by grade were only affected slightly. T
+    The math and reading score averages by grade were only affected slightly. The Average Math Score decreased from 83.42 to 83.35. The Average Reading Score increased from        83.85 to 83.90. The slight variance is due to the values that may not have been correct were nulled out as NaN:
  
  Module - Thomas High School - Average Score
+ 
  ![image](https://user-images.githubusercontent.com/89496798/140698744-e9db9cdd-d5e7-433c-b619-0924e623afb9.png)
 
 Challenge - Thomas High School - Average Score
+
 ![image](https://user-images.githubusercontent.com/89496798/140698796-16de732f-2a0b-42ef-96bd-9b0315587391.png)
 
 
