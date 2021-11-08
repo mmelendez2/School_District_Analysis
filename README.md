@@ -32,9 +32,11 @@ Challenge Statistics:
 Looking at the snippets above, it's apparent that Thomas High School's performance decreased for those who passed math, reading, and overall. The % Passing Math decreased from 93.27 to 66.91 and the % Passing Reading decreased from 97.31 to 69.66.
 
 Module - Thomas High School
+![image](https://user-images.githubusercontent.com/89496798/140697253-22ae6219-2433-468d-901e-38877cbabf7e.png)
 ![image](https://user-images.githubusercontent.com/89496798/140696936-dae1baad-31fc-4b04-a624-59f599449b59.png)
 
 Challenge - Thomas High School
+![image](https://user-images.githubusercontent.com/89496798/140697263-a67563a5-1d7d-42bd-9273-a8e670f2ca02.png)
 ![image](https://user-images.githubusercontent.com/89496798/140696843-24b06774-0ed4-4ded-8510-e56eddae2a92.png)
 
 
