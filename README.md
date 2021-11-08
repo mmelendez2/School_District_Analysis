@@ -46,8 +46,12 @@ Challenge - Thomas High School
     The math and reading score averages by grade were only affected slightly. T
  
  Module - Thomas High School - Average Score
+ 
  ![image](https://user-images.githubusercontent.com/89496798/140698744-e9db9cdd-d5e7-433c-b619-0924e623afb9.png)
 
+Challenge - Thomas High School - Average Score
+
+![image](https://user-images.githubusercontent.com/89496798/140698796-16de732f-2a0b-42ef-96bd-9b0315587391.png)
 
 
     - Scores by school spending
