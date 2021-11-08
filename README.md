@@ -43,7 +43,9 @@ Challenge - Thomas High School
 - How does replacing the ninth-grade scores affect the following:
 
     - Math and reading scores by grade
+    The math and reading score averages by grade were only affected slightly. T
     
+
 
     - Scores by school spending
     - Scores by school size
