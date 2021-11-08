@@ -55,5 +55,10 @@ Challenge - Thomas High School - Average Score
 
 
     - Scores by school spending
+    
+    The scores by school spending had little change:
+    
+    ![image](https://user-images.githubusercontent.com/89496798/140700770-a07780c3-3dcb-44bd-9f12-dbde20f9d3ee.png)
+
     - Scores by school size
     - Scores by school type
