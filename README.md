@@ -67,4 +67,9 @@ Challenge - Thomas High School - Average Score
     - Scores by school type
 
 The scores by school type also did not see a change:
-![image](https://user-images.githubusercontent.com/89496798/140701569-c4ae86b6-b99a-41a5-80cb-e3df770058dd.png)
+![image](https://user-images.githubusercontent.com/89496798/140701613-2b611786-c3e8-423a-8c85-75ddd71f4ffc.png)
+
+To summarize, four changes that we saw in the updated school distrcit analysis after reading and math scores for the ninth grade at Thomas High School were replaced with NaNs include the number of total students accounted for (39,170 down to 38,709), the % Passing Math, the % Passing Reading, and finally, the % Overall Passing. We may not have realized a change in regards to the scores by school spending, by school size, and by type, becasue the 9th grade students within Thomas High School only accounted for 461 students out of 39,170 total students (1.2%).
+
+![image](https://user-images.githubusercontent.com/89496798/140702039-01ac6441-ea3b-470f-960f-c56a40c56dac.png)
+
